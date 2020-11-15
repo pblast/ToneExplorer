@@ -1,0 +1,13 @@
+
+
+Este proyecto tratara de jugar con sonido. 
+Se irá realizando en varias etapas incrementando la complejidad del
+proyecto de manera gradual
+
+* ETAPA 1
+** SUBETAPA 1-1
+Se creará una señal senoidal y se tratará de crear una ventana gráfica
+que la muestre
+
+** SUBETAPA 1-2
+SE creará un loop continuo que vaya visualizando la señal en tiempo real
